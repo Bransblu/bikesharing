@@ -19,9 +19,35 @@ Questions answered within the analysis:
 
 ## Results
 
+![August_Peak_Hours](images/August%20Peak%20Hours.png "Peak Hours")
 
 
 
+![Top Starting Locations](images/Top%20Starting%20Locations.png "Starting Locations")
+
+
+
+![Top Ending Locations](images/Top%20Ending%20Locations.png "Ending Locations")
+
+
+
+![Checkout Times All Users](images/Checkout%20Times%20for%20Users.png "Checkout Time All Users")
+
+
+
+![Checkout Times for Gender](images/Checkout%20Times%20for%20Gender.png "Checkout per Gender")
+
+
+
+![Trips per Weekday](images/Trips%20by%20Weekday%20(Hour).png "Trips(Weekday)")
+
+
+
+![Trips by Gender(Weekly per Hours)](images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png "Trips by Gender")
+
+
+
+![User Trips by Gender](images/User%20Trips%20by%20Gender%20(weekday).png "User Trips by Gender")
 
 ## Summary
 
