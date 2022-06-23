@@ -71,6 +71,10 @@ Figure 8 shows that subscribers (again, especially men) are using the bike-share
 
 ![Conclusion](images/70-701569_conclusionu00252bblau-views-emo.png "Conclusion")
 
+Male subscribers make the majority of Citi Bike users in NYC. Women and other genders utilize the service less often, at least in the NYC market. There is no reason to believe this to be much different in Des Moines.
+
+Usage during the week parallels with rush hour and commuters. Usage during the weekend peaks during the afternoon. All riders generally take trips shorter than 15 minutes in duration. The amount of stations and their placement would not need to be across the entire city; they could be integrated in the downtown area with ancillary stations.
+
 
 ### Suggestions
 
